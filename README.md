@@ -30,3 +30,9 @@ ____________________
 |Nombre | Apellido|
 |-------|---------|
 |Jimena | Diaz    |
+
+## Citas
+>esto es una cita
+Texto normal
+
+>esto es otra cita
