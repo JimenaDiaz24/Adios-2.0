@@ -7,7 +7,7 @@
 Underline
 ____________________
 Underline 2
-====================
+____________________
 # Hola
 
 - Formato *cursiva* de la primer forma
@@ -25,3 +25,8 @@ Underline 2
 
 ## Imagen
 ![Logo del proyecto](https://comunidad.retorn.com/wp-content/uploads/cache/2018/09/gatitos/534533867.jpg)
+
+## Tabla
+|Nombre | Apellido|
+|-------|---------|
+|Jimena | Diaz    |
