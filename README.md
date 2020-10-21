@@ -14,3 +14,4 @@ Underline 2
 - Formato _cursiva_ de la segunda forma
 - Formato **negrita**
 - Formato __negrita 2__
+- Formato ~~sub~~
