@@ -4,3 +4,11 @@
 #### Titulo 4
 ##### Titulo 5
 ###### Titulo 6
+Underline
+____________________
+Underline 2
+====================
+# Hola
+
+- Formato *cursiva* de la primer forma
+- Formato _cursiva_ de la segunda forma
