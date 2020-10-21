@@ -15,3 +15,7 @@ Underline 2
 - Formato **negrita**
 - Formato __negrita 2__
 - Formato ~~sub~~
+
+1. hola
+2. adios
+3. como estas
